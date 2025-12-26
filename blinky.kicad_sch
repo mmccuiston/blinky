@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "87acbd09-ddd3-49c5-b204-e963b206864b")
 	(paper "A4")
+	(title_block
+		(title "Blinky")
+		(date "2025-12-25")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Device:Battery_Cell"
 			(pin_numbers
